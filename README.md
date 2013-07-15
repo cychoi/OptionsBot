@@ -23,6 +23,6 @@ Blog：http://server.everfine.com.tw/blog/<br/>
 　a.建議使用下單大師，http://moneyprinter.pixnet.net/blog<br/>
 　b.或者，請參閱<a href="http://server.everfine.com.tw/blog/archives/2013/03/4.html">程式交易經驗分享系列(4) - 下單機設定及系列回顧</a><br/>
 
-歡迎大家加入討論程式交易，http://www.facebook.com/tradingbot<br/>
+歡迎大家加入討論程式交易，<a href="http://www.facebook.com/tradingbot">TradingBot 粉絲團</a>或<a href="http://www.coco-in.net/forum-140-1.html">Coco-in討論區 - TradingBot程式交易機器人</a><br/>
 若需要支援服務，還請小額贊助，支持永續發展此TradingBot。感謝！<br/>
 聯絡資訊：philipzheng@gmail.com
